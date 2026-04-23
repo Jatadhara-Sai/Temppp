@@ -20,34 +20,34 @@
     in Surveillance Videos}
 
 \author{%
-\begin{tabular}{c@{\hspace{2.5em}}c}
-\begin{minipage}[t]{0.42\textwidth}\centering
-\IEEEauthorblockN{Mohammad Nayeemuddin}\\[0.3ex]
-\IEEEauthorblockA{\textit{Dept. of Data Science.} \\
+\begin{tabular}{c@{\hspace{3em}}c}
+\begin{minipage}[t]{0.40\textwidth}\centering
+Mohammad Nayeemuddin\\[0.6ex]
+\textit{Dept. of Data Science.}\\
 \textit{PVP Siddhartha Institute of Technology}\\
-Vijayawada, India \\
-22501A4439@pvpsit.ac.in}
+Vijayawada, India\\
+22501A4439@pvpsit.ac.in
 \end{minipage} &
-\begin{minipage}[t]{0.42\textwidth}\centering
-\IEEEauthorblockN{Puli Prabhas Reddy}\\[0.3ex]
-\IEEEauthorblockA{\textit{Dept. of Data Science.} \\
+\begin{minipage}[t]{0.40\textwidth}\centering
+Puli Prabhas Reddy\\[0.6ex]
+\textit{Dept. of Data Science.}\\
 \textit{PVP Siddhartha Institute of Technology}\\
-Vijayawada, India \\
-22501A4452@pvpsit.ac.in}
+Vijayawada, India\\
+22501A4452@pvpsit.ac.in
 \end{minipage} \\[3ex]
-\begin{minipage}[t]{0.42\textwidth}\centering
-\IEEEauthorblockN{Parasa Ramya}\\[0.3ex]
-\IEEEauthorblockA{\textit{Dept. of Data Science.} \\
+\begin{minipage}[t]{0.40\textwidth}\centering
+Parasa Ramya\\[0.6ex]
+\textit{Dept. of Data Science.}\\
 \textit{PVP Siddhartha Institute of Technology}\\
-Vijayawada, India \\
-23505A4406@pvpsit.ac.in}
+Vijayawada, India\\
+23505A4406@pvpsit.ac.in
 \end{minipage} &
-\begin{minipage}[t]{0.42\textwidth}\centering
-\IEEEauthorblockN{Paruchuri Jayasri}\\[0.3ex]
-\IEEEauthorblockA{\textit{Dept. of Data Science.} \\
+\begin{minipage}[t]{0.40\textwidth}\centering
+Paruchuri Jayasri\\[0.6ex]
+\textit{Dept. of Data Science.}\\
 \textit{PVP Siddhartha Institute of Technology}\\
-Hyderabad, India \\
-paruchurijayasri@pvpsiddhartha.ac.in}
+Hyderabad, India\\
+paruchurijayasri@pvpsiddhartha.ac.in
 \end{minipage}
 \end{tabular}%
 }
