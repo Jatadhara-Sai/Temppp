@@ -19,30 +19,37 @@
     Real-Time Multi-Class Violence Detection\\
     in Surveillance Videos}
 
-\author{
-\IEEEauthorblockN{Mohammad Nayeemuddin}
+\author{%
+\begin{tabular}{c@{\hspace{2.5em}}c}
+\begin{minipage}[t]{0.42\textwidth}\centering
+\IEEEauthorblockN{Mohammad Nayeemuddin}\\[0.3ex]
 \IEEEauthorblockA{\textit{Dept. of Data Science.} \\
 \textit{PVP Siddhartha Institute of Technology}\\
-        Vijayawada, India \\
-        22501A4439@pvpsit.ac.in}
-\and
-\IEEEauthorblockN{Puli Prabhas Reddy}
+Vijayawada, India \\
+22501A4439@pvpsit.ac.in}
+\end{minipage} &
+\begin{minipage}[t]{0.42\textwidth}\centering
+\IEEEauthorblockN{Puli Prabhas Reddy}\\[0.3ex]
 \IEEEauthorblockA{\textit{Dept. of Data Science.} \\
 \textit{PVP Siddhartha Institute of Technology}\\
-        Vijayawada, India \\
-        22501A4452@pvpsit.ac.in}
-\linebreak\and
-\IEEEauthorblockN{Parasa Ramya}
+Vijayawada, India \\
+22501A4452@pvpsit.ac.in}
+\end{minipage} \\[3ex]
+\begin{minipage}[t]{0.42\textwidth}\centering
+\IEEEauthorblockN{Parasa Ramya}\\[0.3ex]
 \IEEEauthorblockA{\textit{Dept. of Data Science.} \\
 \textit{PVP Siddhartha Institute of Technology}\\
-        Vijayawada, India \\
-        23505A4406@pvpsit.ac.in}
-\and
-\IEEEauthorblockN{Paruchuri Jayasri}
+Vijayawada, India \\
+23505A4406@pvpsit.ac.in}
+\end{minipage} &
+\begin{minipage}[t]{0.42\textwidth}\centering
+\IEEEauthorblockN{Paruchuri Jayasri}\\[0.3ex]
 \IEEEauthorblockA{\textit{Dept. of Data Science.} \\
 \textit{PVP Siddhartha Institute of Technology}\\
-        Hyderabad, India \\
-        paruchurijayasri@pvpsiddhartha.ac.in}
+Hyderabad, India \\
+paruchurijayasri@pvpsiddhartha.ac.in}
+\end{minipage}
+\end{tabular}%
 }
 
 \maketitle
