@@ -34,7 +34,7 @@ Puli Prabhas Reddy\\[0.6ex]
 \textit{PVP Siddhartha Institute of Technology}\\
 Vijayawada, India\\
 22501A4452@pvpsit.ac.in
-\end{minipage} \\[3ex]
+\end{minipage} \\[6ex]
 \begin{minipage}[t]{0.40\textwidth}\centering
 Parasa Ramya\\[0.6ex]
 \textit{Dept. of Data Science.}\\
