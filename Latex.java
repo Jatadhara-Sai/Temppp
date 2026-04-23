@@ -20,7 +20,7 @@
     in Surveillance Videos}
 
 \author{%
-\begin{tabular}{c@{\hspace{3em}}c}
+\begin{tabular}{c@{\hspace{4em}}c}
 \begin{minipage}[t]{0.40\textwidth}\centering
 Mohammad Nayeemuddin\\[0.6ex]
 \textit{Dept. of Data Science.}\\
